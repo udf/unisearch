@@ -3,13 +3,12 @@ A shell/python rofi script that lets you search for and select a character, whic
 
 ![image](https://user-images.githubusercontent.com/13610073/50249109-c2aca800-03e5-11e9-8c00-2b8da48115c5.png)
 
-# requirements
-```
-Python >= 3.6
-Rofi
-xclip
-An internet connection (to download the unicode data on the first run)
-```
+# Requirements
+
+- Python >= 3.6
+- Rofi
+- xclip
+- An internet connection (to download the unicode data on the first run)
 
 # TODO
 - Fix some characters breaking out of the line
