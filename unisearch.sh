@@ -13,7 +13,7 @@ fi
 chosen=$(rofi -dmenu \
     -i \
     -scroll-method 1 \
-    -theme-str 'window{width: 100%;} listview{lines: 12; columns: 1;}' \
+    -theme-str 'window{width: 90%;} listview{lines: 12; columns: 1;}' \
     -location 2 \
     -font "Monospace 10" \
     -p "uchar" \
